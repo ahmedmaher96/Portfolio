@@ -511,8 +511,8 @@ h3.my-profession
 .about .about-content .education,
 .about .about-content .experience
 {
-    flex: 0 0 50%;
-    max-width: 50%;
+    flex: 0 0 100%;
+    max-width: 100%;
     margin-top: 30px;
 }
 .about .about-content h3.title
